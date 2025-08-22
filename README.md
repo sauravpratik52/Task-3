@@ -6,7 +6,7 @@ This project demonstrates the use of **CSS Grid** for button alignment, **Glassm
 ---
 
 ## 🚀 Live Demo
-👉 [Click Here to Try](https://yourusername.github.io/sexy-glass-calculator/)  
+👉 [Click Here to Try](https://sauravpratik52.github.io/Task-3/)  
 
 ## ✨ Features
 - 🟢 Modern **Glassmorphism UI** with smooth hover effects  
